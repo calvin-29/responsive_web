@@ -1,2 +1,1 @@
-# responsive_web
-My First Responsive website with bootstrap
+TinDog Starting Files
