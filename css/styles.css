@@ -1,16 +1,4 @@
-.body{
-    background-color: pink;
-    color: white;
-}
-.nav{
-    padding: 100px;
-    width: 100%;
-    font-size: 20px;
-}
 .title{
-    margin-top: 200px;
-}
-.title_pic{
-    transform: rotate(20deg);
-    margin-top: 60px;
+    background-color: #ff4c68;
+    font-family: montserrat;
 }
