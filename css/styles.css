@@ -1,11 +1,13 @@
 .title{
     background-color: #ff4c68;
 }
-h1{
+.head{
     font-family: "Montserrat-black";
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 1.5;
-    font-weight: 0;
+}
+.nav{
+  color: white;
 }
 
 /* Google Font  */
