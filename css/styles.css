@@ -3,6 +3,14 @@
     color: white;
 }
 .nav{
-    margin-left: 100px;
-    margin-right: 100px;
+    padding: 100px;
+    width: 100%;
+    font-size: 20px;
+}
+.title{
+    margin-top: 200px;
+}
+.title_pic{
+    transform: rotate(20deg);
+    margin-top: 60px;
 }
