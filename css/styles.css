@@ -1,45 +1,8 @@
-*{
-    background-color: rgb(255, 76, 104);
+.body{
+    background-color: pink;
     color: white;
 }
-#move{
-    padding-left: 200px;
-}
-.tin{
-    font-size: 40px;
-    font-weight: 700;
-    color: white;
-    text-decoration: none;
-}
-.down{
-    padding-top: 20px;
-}
-#left{
-    padding-left: 500px;
-}
-.color{
-    color: rgba(255, 255, 255, 0.8);
-    margin-left: 40px;
-    text-decoration: none;
-}
-#heading{
-    width: 400px;
-    font-size: 60px;
-}
-.section{
-    display: flex;
-    gap: 160px;
-}
-#part1{
-    padding-left: 200px;
-    padding-top: 120px;
-}
-#part2{
-    padding-top: 100px;
-}
-#part2 img{
-    transform: rotate(20deg);
-}
-button{
-    padding: 1opx;
+.nav{
+    margin-left: 100px;
+    margin-right: 100px;
 }
