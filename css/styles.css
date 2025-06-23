@@ -1,6 +1,8 @@
-.title{
-    background-color: #ff4c68;
-    font-family: montserrat;
+
+.head{
+    font-family: "Montserrat-black";
+    font-size: 3rem;
+    line-height: 1.5;
 }
 nav a{
   color: white;
