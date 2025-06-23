@@ -2,6 +2,9 @@
     background-color: #ff4c68;
     font-family: montserrat;
 }
+nav a{
+  color: white;
+}
 
 /* Google Font  */
 .ubuntu-light {
