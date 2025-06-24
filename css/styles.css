@@ -11,8 +11,32 @@
   color: white;
 }
 .container-fluid{
-  padding: 3%  5%;
+  padding: 3% 10%;
 }
+.justify{
+  gap: 30px;
+}
+nav{
+  width: 95%;
+}
+.navbar-brand{
+  font-size: 30px;
+  font-weight: 700;
+}
+embed{
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+.title{
+  margin-top: 80px;
+  color: white; 
+}
+.image1{
+  rotate: 20deg;
+  margin-top: 90px;
+}
+
 
 /* Google Font  */
 .ubuntu-light {
