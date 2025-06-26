@@ -1,42 +1,89 @@
+
 #title{
   background-color: #ff4c68;
 }
 .head{
-  font-family: "Montserrat-Black";
-  font-size: 4rem;
+  font-size: 60px;
   line-height: 1.5;
   font-weight: 700;
 }
+.brand{
+  font-size: 40px;
+  font-weight: 700;
+  color: white;
+  font-family: "ubuntu-light";
+}
+.brand:hover, .nav a:hover{
+  color: white;
+  text-decoration: none;
+}
+.nav{
+  padding-top: 40px;
+}
 .link{
   color: white;
+  padding-top: 10px;
+  margin-right: 50px;
 }
-.container-fluid{
-  padding: 3% 10%;
+ .container-fluid{
+  padding: 0% 14%;
 }
-.justify{
-  gap: 30px;
-}
-nav{
-  width: 95%;
-}
-.navbar-brand{
-  font-size: 30px;
-  font-weight: 700;
-}
-embed{
-  width: 20px;
-  height: 20px;
-  color: white;
+i{
+  width: 30px;
+  height: 30px;
 }
 .title{
   margin-top: 80px;
-  color: white; 
+  color: white;
 }
 .image1{
   rotate: 20deg;
-  margin-top: 90px;
+  margin-top: 100px;
 }
 
+.feature{
+  padding: 7% 3%;
+  text-align: center;
+}
+
+#testimonials, #press{
+  background-color: rgb(239, 129, 114);
+  text-align: center;
+  width: 100%;
+}
+#testimonials{
+  padding: 6%;
+}
+.testimony h2{
+  font-size: 200%;
+  text-align: center;
+}
+.testimony{
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+}
+.testimony img{
+  border-radius: 40rem;
+  width: 10%;
+  margin-right: 30px;
+}
+
+#press{
+  padding: 4%;
+}
+#press img{
+  width: 15%;
+  margin: 20px
+}
+
+#pricing{
+  text-align: center;
+  padding: 70px 0px;
+}
+#pricing button{
+  width: 200px;
+}
 
 /* Google Font  */
 .ubuntu-light {
